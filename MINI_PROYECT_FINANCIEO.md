@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @jgomezhernandez-5-16-9-1
+"""- 👋 Hi, I’m @jgomezhernandez-5-16-9-1
 - 👀 I’m interested in Finance & Marketing
 - 🌱 I’m currently learning DATA S100TIST 
 - 💞️ I’m looking to collaborate on financial and medicine sector
 - 📫 How to reach me ... www.linkedin.com/in/jesúsgómezhhernández 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love analyzing data trends while listening to classical music 🎵
+- ⚡ Fun fact: I love analyzing data trends while listening to classical music 🎵"""
 
 """MINI PROYECT FINANCIERO"""
+
 import pandas as pd
 import numpy as np
 import datetime
